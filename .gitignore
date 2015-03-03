@@ -1,0 +1,14 @@
+<?php                    //start tag
+/*multi
+    line 
+    comments*/
+
+  /*print on screen*/
+  echo 'my name is ahmed';      //statments must end with ;
+  echo '<h1>here i can print html tages</h1>';
+  $x;//variable decleration to adressing values in memory
+  $x=5;//assign 5 to variabe x
+  
+  echo 'variable x has value'.$x;//concatination using (.)
+  
+  ?>
